@@ -1,4 +1,4 @@
-stability test case lib for mibox
-====
-needed by remote task workstation
+stability test case lib for tv
+======
+download: git clone https://github.com/hongbinbao/mitv_public.git
 
